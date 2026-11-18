@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/pstacks-banner.svg" alt="PStacks Enterprise banner" width="100%"/>
+</p>
+
 # Hi 👋, I'm Akinwale Olasunkanmi Peter
 
 ### Software Engineer | Founder of PStacks
