@@ -1,10 +1,10 @@
 # Hi 👋, I'm Akinwale Olasunkanmi Peter
 
-### Software Engineer | Full-Stack Developer | Founder of PStacks
+### Software Engineer | Founder of PStacks
 
-I'm a software developer from Nigeria passionate about building useful software, solving real-world problems, and creating digital products that make a difference.
+I'm a software engineer from Nigeria passionate about building useful software, solving real-world problems, and creating digital products that make a difference.
 
-I enjoy working across frontend and backend technologies, system architecture, cloud infrastructure, and developer tools.
+I enjoy exploring software development, system architecture, cloud infrastructure, and developer tools.
 
 - 🚀 Building **Kestrel** – a developer deployment and CI/CD platform.
 - 🎓 Developing an **E-Learning Platform** for secondary school students.
