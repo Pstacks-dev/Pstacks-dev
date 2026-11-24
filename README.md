@@ -79,16 +79,16 @@ I enjoy exploring software development, system architecture, cloud infrastructur
 ### 📊 GitHub Statistics
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=peterakinwale326-code&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=peterakinwale326-code&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pstacks-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Pstacks-dev&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=peterakinwale326-code&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
+  <img src="https://streak-stats.demolab.com?user=Pstacks-dev&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=peterakinwale326-code&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pstacks-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 </p>
 
 ---
@@ -96,7 +96,7 @@ I enjoy exploring software development, system architecture, cloud infrastructur
 ### 🤝 Connect With Me
 
 <p>
-  <a href="https://github.com/peterakinwale326-code">
+  <a href="https://github.com/Pstacks-dev">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://pstacks-website.vercel.app/">
