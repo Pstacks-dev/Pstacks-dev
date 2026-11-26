@@ -1,0 +1,62 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="640" viewBox="0 0 1200 640" role="img" aria-labelledby="title desc">
+<title id="title">PStacks — The Builder's Journey</title>
+<desc id="desc">A retro terminal-inspired map of PStacks' public project journey: learning platforms, systems exploration, design engineering, practical tools, and developer infrastructure.</desc>
+<defs>
+  <pattern id="grid" width="24" height="24" patternUnits="userSpaceOnUse"><path d="M24 0H0V24" fill="none" stroke="#24342c" stroke-width="1"/></pattern>
+  <filter id="glow"><feGaussianBlur stdDeviation="3" result="b"/><feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge></filter>
+</defs>
+<rect width="1200" height="640" rx="18" fill="#0b100e"/>
+<rect x="1" y="1" width="1198" height="638" rx="17" fill="url(#grid)" stroke="#3d5947" stroke-width="2"/>
+<rect x="22" y="22" width="1156" height="46" rx="7" fill="#121d17" stroke="#344d3c"/>
+<circle cx="46" cy="45" r="6" fill="#ff7b55"/><circle cx="66" cy="45" r="6" fill="#f4cf68"/><circle cx="86" cy="45" r="6" fill="#9cff57"/>
+<text x="112" y="51" fill="#9cff57" font-family="monospace" font-size="17" letter-spacing="2">PSTACKS // BUILD LOG 2026</text>
+<text x="1148" y="51" text-anchor="end" fill="#8ca394" font-family="monospace" font-size="13">PUBLIC PROJECT TRAIL</text>
+<text x="48" y="122" fill="#f4d06f" font-family="monospace" font-size="14" letter-spacing="3">NOT JUST COMMITS. THINGS BUILT.</text>
+<text x="48" y="165" fill="#f4f1df" font-family="monospace" font-size="34" font-weight="bold">THE BUILDER'S JOURNEY</text>
+<text x="50" y="194" fill="#9caf9f" font-family="monospace" font-size="16">A map of the problems, products and systems explored along the way.</text>
+<!-- route -->
+<path d="M105 300 H1090 Q1120 300 1120 330 V420 Q1120 448 1090 448 H105" fill="none" stroke="#334d3c" stroke-width="7" stroke-dasharray="7 13"/>
+<path d="M105 300 H1090 Q1120 300 1120 330 V420 Q1120 448 1090 448 H105" fill="none" stroke="#9cff57" stroke-width="2" stroke-dasharray="3 17" filter="url(#glow)"/>
+<!-- nodes -->
+<g font-family="monospace">
+<g transform="translate(105 300)">
+<rect x="-14" y="-14" width="28" height="28" fill="#0b100e" stroke="#f4d06f" stroke-width="4"/>
+<text x="0" y="-42" text-anchor="middle" fill="#f4d06f" font-size="13" letter-spacing="1">01 / LEARN</text>
+<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">E-LEARNING</text>
+<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Web • Flutter • Education</text>
+<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Aug — Nov</text>
+</g>
+<g transform="translate(340 300)">
+<rect x="-14" y="-14" width="28" height="28" fill="#0b100e" stroke="#ff815d" stroke-width="4"/>
+<text x="0" y="-42" text-anchor="middle" fill="#ff9a79" font-size="13" letter-spacing="1">02 / EXPLORE</text>
+<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">AURAOS</text>
+<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Rust • Systems thinking</text>
+<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov</text>
+</g>
+<g transform="translate(575 300)">
+<rect x="-14" y="-14" width="28" height="28" fill="#0b100e" stroke="#70d9dc" stroke-width="4"/>
+<text x="0" y="-42" text-anchor="middle" fill="#70d9dc" font-size="13" letter-spacing="1">03 / REFINE</text>
+<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">FRONTEND SKILL</text>
+<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Interfaces • Design systems</text>
+<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov</text>
+</g>
+<g transform="translate(810 300)">
+<rect x="-14" y="-14" width="28" height="28" fill="#0b100e" stroke="#b99cff" stroke-width="4"/>
+<text x="0" y="-42" text-anchor="middle" fill="#c5adff" font-size="13" letter-spacing="1">04 / SOLVE</text>
+<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">NAIRA TOOLS</text>
+<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Tracking • Local problems</text>
+<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov</text>
+</g>
+<g transform="translate(1085 448)">
+<rect x="-17" y="-17" width="34" height="34" fill="#9cff57" stroke="#d8ffb8" stroke-width="3" filter="url(#glow)"/>
+<text x="0" y="-49" text-anchor="middle" fill="#9cff57" font-size="13" letter-spacing="1">05 / BUILD</text>
+<text x="-5" y="58" text-anchor="end" fill="#f4f1df" font-size="23" font-weight="bold">KESTREL</text>
+<text x="-5" y="83" text-anchor="end" fill="#9caf9f" font-size="14">CI/CD • Deployments • Cloud</text>
+<text x="-5" y="106" text-anchor="end" fill="#728b7b" font-size="12">Ongoing</text>
+</g>
+</g>
+<rect x="48" y="520" width="1104" height="76" rx="9" fill="#121d17" stroke="#344d3c"/>
+<text x="72" y="550" fill="#9cff57" font-family="monospace" font-size="14" letter-spacing="2">THE COMMON THREAD</text>
+<text x="72" y="578" fill="#f4f1df" font-family="monospace" font-size="18">Learn deeply. Build useful things. Make systems work in the real world.</text>
+<text x="1145" y="620" text-anchor="end" fill="#5f7868" font-family="monospace" font-size="11">PSTACKS_DEV / END OF TRANSMISSION</text>
+</svg>
