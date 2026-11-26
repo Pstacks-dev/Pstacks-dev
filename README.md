@@ -93,7 +93,7 @@ A few themes connect the work:
 
 ---
 
-### ▸ GitHub Statistics
+### 📊 GitHub Statistics
 
 <p align="center">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=Pstacks-dev&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub statistics"/>
@@ -105,17 +105,8 @@ A few themes connect the work:
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pstacks-dev&bg_color=0b0f0e&color=f4d06f&line=ff7f50&point=9cff57&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE%20%2F%2F%208-BIT%20MODE&radius=4&height=300" width="100%" alt="Retro terminal-style GitHub contribution activity graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pstacks-dev&bg_color=0d1117&color=58a6ff&line=1f6feb&point=ffffff&area=true&hide_border=true" width="100%" alt="GitHub contribution activity graph"/>
 </p>
-
-<p align="center">
-  <img src="./assets/engineering-journey.svg" width="100%" alt="The engineering journey behind my contributions: discover, build, verify and ship"/>
-</p>
-
-<p align="center">
-  <sub>My recent work follows a simple loop: understand the project, build the system, prove it works, then ship it.</sub>
-</p>
-
 ---
 
 ### 🤝 Connect With Me
