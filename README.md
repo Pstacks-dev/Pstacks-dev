@@ -90,6 +90,14 @@ I enjoy exploring software development, system architecture, cloud infrastructur
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Pstacks-dev&bg_color=0b0f0e&color=f4d06f&line=ff7f50&point=9cff57&area=true&hide_border=true&custom_title=CONTRIBUTION%20TIMELINE%20%2F%2F%208-BIT%20MODE&radius=4&height=300" width="100%" alt="Retro terminal-style GitHub contribution activity graph"/>
 </p>
 
+<p align="center">
+  <img src="./assets/engineering-journey.svg" width="100%" alt="The engineering journey behind my contributions: discover, build, verify and ship"/>
+</p>
+
+<p align="center">
+  <sub>My recent work follows a simple loop: understand the project, build the system, prove it works, then ship it.</sub>
+</p>
+
 ---
 
 ### 🤝 Connect With Me
