@@ -29,8 +29,8 @@
 <g transform="translate(340 300)">
 <rect x="-14" y="-14" width="28" height="28" fill="#0b100e" stroke="#ff815d" stroke-width="4"/>
 <text x="0" y="-42" text-anchor="middle" fill="#ff9a79" font-size="13" letter-spacing="1">02 / SOLVE</text>
-<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">FRONTEND SKILL</text>
-<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Interfaces • Design systems</text>
+<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">NAIRA TOOLS</text>
+<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Tracking • Local problems</text>
 <text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov 3</text>
 </g>
 <g transform="translate(575 300)">
@@ -38,14 +38,14 @@
 <text x="0" y="-42" text-anchor="middle" fill="#70d9dc" font-size="13" letter-spacing="1">03 / EXPLORE</text>
 <text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">AURAOS</text>
 <text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Rust • Systems thinking</text>
-<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov</text>
+<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov 5</text>
 </g>
 <g transform="translate(810 300)">
 <rect x="-14" y="-14" width="28" height="28" fill="#0b100e" stroke="#b99cff" stroke-width="4"/>
 <text x="0" y="-42" text-anchor="middle" fill="#c5adff" font-size="13" letter-spacing="1">04 / REFINE</text>
-<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">NAIRA TOOLS</text>
-<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Tracking • Local problems</text>
-<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov</text>
+<text x="0" y="58" text-anchor="middle" fill="#f4f1df" font-size="19" font-weight="bold">FRONTEND SKILL</text>
+<text x="0" y="82" text-anchor="middle" fill="#9caf9f" font-size="13">Interfaces • Design systems</text>
+<text x="0" y="104" text-anchor="middle" fill="#728b7b" font-size="12">Nov 20</text>
 </g>
 <g transform="translate(1085 448)">
 <rect x="-17" y="-17" width="34" height="34" fill="#9cff57" stroke="#d8ffb8" stroke-width="3" filter="url(#glow)"/>
