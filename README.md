@@ -75,24 +75,6 @@ I enjoy exploring software development, system architecture, cloud infrastructur
 
 ---
 
-### ✦ The Builder's Journey
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Pstacks-dev/Pstacks-dev/main/assets/builders-journey.svg" width="100%" alt="Retro timeline of my public project journey: e-learning, Naira tools, AuraOS, frontend design engineering, and Kestrel"/>
-</p>
-
-A few themes connect the work:
-
-- **Education:** building learning experiences across web and mobile.
-- **Systems:** exploring low-level computing and Rust through AuraOS.
-- **Design engineering:** turning interface principles into reusable frontend practice.
-- **Useful software:** experimenting with tools around everyday Nigerian economic realities.
-- **Developer infrastructure:** making builds, deployments, and releases more dependable with Kestrel.
-
-*The timeline is a curated project history, not a count of commits or a replacement for GitHub's contribution calendar.*
-
----
-
 ### 📊 GitHub Statistics
 
 <p align="center">
